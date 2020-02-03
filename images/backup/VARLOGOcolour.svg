@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?> <!-- Created with Vectornator for iOS (http://vectornator.io/) --><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg height="100%" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="100%" xmlns:vectornator="http://vectornator.io" version="1.1" viewBox="0 0 7000 2500">
+<metadata>
+<vectornator:setting key="DisplayWhiteBackground" value="0"/>
+<vectornator:setting key="RulersVisible" value="1"/>
+<vectornator:setting key="SnapToEdges" value="1"/>
+<vectornator:setting key="Units" value="Pixels"/>
+<vectornator:setting key="DynamicGuides" value="1"/>
+<vectornator:setting key="SnapToPoints" value="1"/>
+<vectornator:setting key="CMYKEnabledKey" value="0"/>
+<vectornator:setting key="SnapToGrid" value="1"/>
+<vectornator:setting key="SnapToGuides" value="1"/>
+<vectornator:setting key="ShowGrid" value="1"/>
+<vectornator:setting key="GridSpacing" value="250"/>
+</metadata>
+<defs/>
+<g id="Layer 1" vectornator:layerName="Layer 1">
+<path stroke="#000000" stroke-opacity="0" stroke-width="0.1" d="M250+250L2250+250L2250+2250L250+2250L250+250Z" fill="#fdc701" stroke-linecap="round" opacity="1" stroke-linejoin="round"/>
+<path stroke="#000000" stroke-opacity="0" stroke-width="0.1" d="M2500+250L4500+250L4500+2250L2500+2250L2500+250Z" fill="#ff4014" stroke-linecap="round" opacity="1" stroke-linejoin="round"/>
+<path stroke="#000000" stroke-opacity="0" stroke-width="0.1" d="M4750+250L6750+250L6750+2250L4750+2250L4750+250Z" fill="#1ca8f0" stroke-linecap="round" opacity="1" stroke-linejoin="round"/>
+</g>
+<g id="Layer 2" vectornator:layerName="Layer 2">
+<path stroke="#000000" stroke-opacity="0" stroke-width="0.1" d="M2500+250L2500+2250L4500+2250L4500+250L2500+250ZM3000+500L4000+500L4000+750L4250+750L4250+2000L4000+2000L4000+1500L3000+1500L3000+2000L2750+2000L2750+750L3000+750L3000+500ZM3000+750L3000+1250L4000+1250L4000+750L3000+750Z" fill="#ff4014" stroke-linecap="round" opacity="1" stroke-linejoin="round"/>
+<path stroke="#000000" stroke-width="0.1" d="M250+250L250+500L250+2250L500+2250L750+2250L1750+2250L2000+2250L2250+2250L2250+250L250+250ZM500+500L750+500L750+1500L1000+1500L1000+1750L1500+1750L1500+1500L1750+1500L1750+500L2000+500L2000+1500L1750+1500L1750+1750L1500+1750L1500+2000L1000+2000L1000+1750L750+1750L750+1500L500+1500L500+500Z" fill="#fdc701" stroke-linecap="round" opacity="1" stroke-linejoin="round"/>
+<path stroke="#000000" stroke-opacity="0" stroke-width="0.1" d="M4750+250L4750+2250L6750+2250L6750+250L4750+250ZM5000+500L5250+500L6250+500L6250+750L6500+750L6500+1250L6250+1250L6250+1500L6500+1500L6500+2000L6250+2000L6250+1500L5250+1500L5250+2000L5000+2000L5000+500ZM6250+1250L6250+750L5250+750L5250+1250L6250+1250Z" fill="#1ca8f0" stroke-linecap="round" opacity="1" stroke-linejoin="round"/>
+</g>
+</svg>
