@@ -14,7 +14,7 @@
 <vectornator:setting key="GridSpacing" value="250"/>
 </metadata>
 <defs/>
-<g id="Layer 1" vectornator:layerName="Layer 1" visibility="hidden">
+<g id="Layer 1" vectornator:layerName="Layer 1">
 <path stroke="#000000" stroke-opacity="0" stroke-width="0.1" d="M250+250L2250+250L2250+2250L250+2250L250+250Z" fill="#fdc701" stroke-linecap="round" opacity="1" stroke-linejoin="round"/>
 <path stroke="#000000" stroke-opacity="0" stroke-width="0.1" d="M2500+250L4500+250L4500+2250L2500+2250L2500+250Z" fill="#ff4014" stroke-linecap="round" opacity="1" stroke-linejoin="round"/>
 <path stroke="#000000" stroke-opacity="0" stroke-width="0.1" d="M4750+250L6750+250L6750+2250L4750+2250L4750+250Z" fill="#1ca8f0" stroke-linecap="round" opacity="1" stroke-linejoin="round"/>
