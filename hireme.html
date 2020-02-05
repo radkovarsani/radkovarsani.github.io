@@ -40,14 +40,17 @@
 								<span class="image main"><img src="images/profile_square_2.jpeg" alt=""/></span>
 								
 							
-                                <form action="https://docs.google.com/forms/u/0/d/e/1FAIpQLSdaZJpQiVwVS9ghtfAB0MwqTUod8GL_X7Stx0XTQzTQoMdh6A/formResponse" method="POST">
-                                E-mail:<br><input type="email" autocomplete="email" aria-label="Vaša e-mailová adresa" name="emailAddress">
+                              <script type="text/javascript">var submitted=false;</script>
+     <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted)  {window.location='formsent.html';}"></iframe>
+                                
+                                <form action="https://docs.google.com/forms/u/0/d/e/1FAIpQLSdaZJpQiVwVS9ghtfAB0MwqTUod8GL_X7Stx0XTQzTQoMdh6A/formResponse" method="POST" target="hidden_iframe" onsubmit="submitted=true;">
+                                E-mail:<br><input type="email" autocomplete="email" name="entry.1905368664">
                             
                                 
                             Name:<br>
-                              <input type="text" autocomplete="name" aria-label="Name" name="entry.2061459768" dir="auto" data-initial-dir="auto" aria-invalid="false"><br>
+                              <input type="text" autocomplete="name" name="entry.2061459768"><br>
                               Message:<br>
-                              <textarea data-rows="1" tabindex="0" aria-label="Message" jscontroller="gZjhIf" name="entry.214712701" dir="auto" data-initial-dir="auto" aria-describedby="i.desc.167844727 i.err.167844727" style="height: 100px;"></textarea>
+                              <textarea name="entry.214712701" style="height: 100px;"></textarea>
                               <br><button type="submit">Send</button>
                             </form>
 
